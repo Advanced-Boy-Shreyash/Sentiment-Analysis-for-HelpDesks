@@ -16,4 +16,4 @@
 
 5. Finally open the main.dart file and click on run button of Android Studio and run it in a browser or a virtual device.
 
-I have already provided an APK file with this repository if you wanted to try directly on your Android Device.
+If you want to try the app on your Android Device you can directly download it from here: https://drive.google.com/file/d/1svEEmozhtuHl1Y4WvRyZC7bNiPpnBVkR/view?usp=sharing
