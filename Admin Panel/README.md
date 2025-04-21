@@ -11,3 +11,10 @@ How to run this code:
 
 5. To execute run in terminal: 
 ```npm run dev``` or ```bun run dev```
+
+6. Open your browser and go to: ```http://localhost:8080/```
+
+You can checkout the Admin Panel Here (Sample data is added for understanding of design): https://help-desk-admin-panel.vercel.app/
+
+username: admin
+password: admin123
